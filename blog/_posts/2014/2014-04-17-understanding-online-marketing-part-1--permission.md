@@ -10,8 +10,9 @@ This is the first part in a two part series on Online Marketing.
 [Read Part 2]({% post_url /2014/2014-04-21-understanding-online-marketing-part-2--data %})  
 
 Online marketing has two fundamental advantages over traditional advertising:  
-- **Data**  
-- **Permission**  
+* * *  
+**Data** and **Permission**  
+* * *  
 
 While neither are completely exclusive to the online space, in this two-part series we will see how the nature of the Internet as a two-communication medium makes both individually more powerful. Taken together, they act as a complete game-changer. 
 
