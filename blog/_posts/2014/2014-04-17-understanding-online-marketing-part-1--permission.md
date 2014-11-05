@@ -7,7 +7,7 @@ robots: none
 
 This is the first part in a two part series on Online Marketing.  
 
-Part 2: {% post_url 2014-04-21-understanding-online-marketing-part-2--data.md %}  
+Read [Part 2]({% post_url /2014/2014-04-21-understanding-online-marketing-part-2--data %}).  
 
 Online marketing has two fundamental advantages over traditional advertising: 
 + **Data**  

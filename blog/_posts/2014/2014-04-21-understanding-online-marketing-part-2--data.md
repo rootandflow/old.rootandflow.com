@@ -7,7 +7,7 @@ robots: none
 
 This is the second part in a two part series on Online Marketing.  
 
-Part 1: {% post_url 2014-04-17-understanding-online-marketing-part-1--permission.md %}  
+Read [Part 1]({% post_url /2014/2014-04-17-understanding-online-marketing-part-1--permission %}).  
 
 In part one we looked at the fundamental advantage interaction-based marketing gives online marketers over the interruption-based marketing found in nearly all traditional advertising.  
 
