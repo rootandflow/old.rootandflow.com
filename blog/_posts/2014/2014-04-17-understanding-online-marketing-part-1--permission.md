@@ -10,8 +10,8 @@ This is the first part in a two part series on Online Marketing.
 [Read Part 2]({% post_url /2014/2014-04-21-understanding-online-marketing-part-2--data %})  
 
 Online marketing has two fundamental advantages over traditional advertising:  
-+ **Data**  
-+ **Permission**  
+- **Data**  
+- **Permission**  
 
 While neither are completely exclusive to the online space, in this two-part series we will see how the nature of the Internet as a two-communication medium makes both individually more powerful. Taken together, they act as a complete game-changer. 
 
@@ -20,20 +20,20 @@ While neither are completely exclusive to the online space, in this two-part ser
 _Offline Advertising Forces Attention with Money._  
 
 Do you ever:  
-+ Visit a billboard?  
-+ Search for a radio jingle?  
-+ Ask to be Direct Mailed?  
-+ Subscribe to network commercial breaks?  
+- Visit a billboard?  
+- Search for a radio jingle?  
+- Ask to be Direct Mailed?  
+- Subscribe to network commercial breaks?  
 
 Of course you don’t! Outdoor advertising is always an **interruption**. Advertisers _squeeze_ their way into peoples attention. Companies foot the bill for what they hope people want with the aim of guilt-tripping those same people into paying attention to something they don’t. They’re making demands, not offers. At best the result is indifference; at worst they’re paying money to breed resentment.  
 
 And people fight back.  
 
 Do you ever:  
-+ Ignore billboards?  
-+ Flip through radio stations?  
-+ Trash junk mail?  
-+ TiVo (link to article on name branding, getting there first i.e. Google, Kleenex) past TV commercials?  
+- Ignore billboards?  
+- Flip through radio stations?  
+- Trash junk mail?  
+- TiVo (link to article on name branding, getting there first i.e. Google, Kleenex) past TV commercials?  
 
 Interruption-based marketing positions the advertiser as a visitor, and people as the host. Because they are imposing themselves on their hosts, interruption-based advertisers are seen as intrusive and unwelcome guests. Who wants that in their home? Nobody.  
 
