@@ -6,11 +6,13 @@ robots: none
 ---
 
 This is the second part in a two part series on Online Marketing.  
+
 Part 1: {% post_url 2014-04-17-understanding-online-marketing-part-1--permission.md %}  
 
 In part one we looked at the fundamental advantage interaction-based marketing gives online marketers over the interruption-based marketing found in nearly all traditional advertising.  
 
-However, while gaining permission through interactivity is much easier online, it isn’t exclusive to the Internet. Wunderman’s Gold Box (link: http://www.forbes.com/sites/davidvinjamuri/2012/04/25/why-the-brand-america-campaign-misses-the-mark-it-fails-the-gold-box-test/) and American Idol’s voting-by-text dynamic are examples of interactivity in traditional media.  
+However, while gaining permission through interactivity is much easier online, it isn’t exclusive to the Internet.  
+Wunderman’s Gold Box (link: http://www.forbes.com/sites/davidvinjamuri/2012/04/25/why-the-brand-america-campaign-misses-the-mark-it-fails-the-gold-box-test/) and American Idol’s voting-by-text dynamic are examples of interactivity in traditional media.  
 
 It’s the pairing of Permission with Data — the second advantage of online marketing over traditional media — that allows savvy online marketers to achieve a level of branding engagement impossible before. And greater brand engagement fuels the achievement of business goals.  
 
